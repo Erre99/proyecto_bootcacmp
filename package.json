@@ -1,0 +1,29 @@
+{
+  "name": "proyecto_bootcamp",
+  "version": "1.0.0",
+  "description": "Proyecto desarrollado para el bootcamp de habilidades digitales.",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erre99/proyecto_bootcacmp.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "bootcamp",
+    "platzi",
+    "GIZ",
+    "proyecto",
+    "educación"
+  ],
+  "author": "Ricardo Dominguez <erredeeme9@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Erre99/proyecto_bootcacmp/issues"
+  },
+  "homepage": "https://github.com/Erre99/proyecto_bootcacmp#readme"
+}
